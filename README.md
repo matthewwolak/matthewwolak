@@ -1,7 +1,7 @@
 ## Matthew E. Wolak
 
 [![ORCID Badge](https://img.shields.io/badge/ORCID-iD-green)](https://orcid.org/0000-0002-7962-0071)
-[![Google Scholar Badge](https://img.shields.io/badge/Google-Scholar-red)](https://scholar.google.com/citations?user=ru_ah2gAAAAJ&hl=en&oi=ao)
+[![Google Scholar Badge](https://img.shields.io/badge/Google-Scholar-blue)](https://scholar.google.com/citations?user=ru_ah2gAAAAJ&hl=en&oi=ao)
 
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/matthewwolak/matthewwolak">
